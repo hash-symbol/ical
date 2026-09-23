@@ -48,4 +48,4 @@ next time tzdata is updated on the host, no code change needed.
 
 ## License
 
-GNU General Public License v2 - see the header in `generate-ics.php`.
+GNU General Public License v2
