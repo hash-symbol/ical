@@ -1,8 +1,6 @@
 # Solar & DST Events Calendar
 
-An auto-generated `.ics` feed combining solstice/equinox and Daylight Saving
-Time events. Regenerated monthly by [`generate-ics.php`](../generate-ics.php)
-(one level up - not part of this repo) and pushed here automatically.
+An `.ics` file combining solstice/equinox and Daylight Saving Time events.
 
 ## Subscribe
 
