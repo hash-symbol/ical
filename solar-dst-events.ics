@@ -1,83 +1,109 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Daylight Savings + Solar Events//ICS//EN
+PRODID:-//Solar Events + DST Plugins//Merged ICS//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Solar & DST Events
 BEGIN:VEVENT
-UID:dst-end-2026@dst.local
-DTSTAMP:20260923T041401Z
-DTSTART:20261101T020000
-SUMMARY:DST Ends
-DESCRIPTION:Clocks move back one hour.
-END:VEVENT
-BEGIN:VEVENT
-UID:dst-start-2027@dst.local
-DTSTAMP:20260923T041401Z
-DTSTART:20270314T020000
-SUMMARY:DST Starts
-DESCRIPTION:Clocks move forward one hour.
-END:VEVENT
-BEGIN:VEVENT
-UID:dst-end-2027@dst.local
-DTSTAMP:20260923T041401Z
-DTSTART:20271107T020000
-SUMMARY:DST Ends
-DESCRIPTION:Clocks move back one hour.
-END:VEVENT
-BEGIN:VEVENT
-UID:dst-start-2028@dst.local
-DTSTAMP:20260923T041401Z
-DTSTART:20280312T020000
-SUMMARY:DST Starts
-DESCRIPTION:Clocks move forward one hour.
-END:VEVENT
-BEGIN:VEVENT
-UID:september-2026@solar-events.local
-DTSTAMP:20260923T041401Z
-DTSTART:20260922T090000
-SUMMARY:September Equinox
-DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.
-URL:https://en.wikipedia.org/wiki/September_equinox
-END:VEVENT
-BEGIN:VEVENT
 UID:winter-2026@solar-events.local
-DTSTAMP:20260923T041401Z
-DTSTART:20261221T090000
+DTSTAMP:20260923T195048Z
+DTSTART:20261221T205132Z
 SUMMARY:Winter Solstice
-DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.
+DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.\n\nExact moment: 12:51 PM PST
 URL:https://en.wikipedia.org/wiki/Winter_solstice
+CATEGORIES:Astronomy,Solar Events
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winter Solstice
+TRIGGER:PT0M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-2027@solar-events.local
-DTSTAMP:20260923T041401Z
-DTSTART:20270320T090000
+DTSTAMP:20260923T195048Z
+DTSTART:20270320T202645Z
 SUMMARY:March Equinox
-DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.
+DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.\n\nExact moment: 1:26 PM PDT
 URL:https://en.wikipedia.org/wiki/March_equinox
+CATEGORIES:Astronomy,Solar Events
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:March Equinox
+TRIGGER:PT0M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-2027@solar-events.local
-DTSTAMP:20260923T041401Z
-DTSTART:20270621T090000
+DTSTAMP:20260923T195048Z
+DTSTART:20270621T141243Z
 SUMMARY:Summer Solstice
-DESCRIPTION:The day with the most daylight hours of the year in the Northern Hemisphere.
+DESCRIPTION:The day with the most daylight hours of the year in the Northern Hemisphere.\n\nExact moment: 7:12 AM PDT
 URL:https://en.wikipedia.org/wiki/Summer_solstice
+CATEGORIES:Astronomy,Solar Events
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Summer Solstice
+TRIGGER:PT0M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:september-2027@solar-events.local
-DTSTAMP:20260923T041401Z
-DTSTART:20270922T090000
+DTSTAMP:20260923T195048Z
+DTSTART:20270923T060311Z
 SUMMARY:September Equinox
-DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.
+DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.\n\nExact moment: 11:03 PM PDT
 URL:https://en.wikipedia.org/wiki/September_equinox
+CATEGORIES:Astronomy,Solar Events
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:September Equinox
+TRIGGER:PT0M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-2027@solar-events.local
-DTSTAMP:20260923T041401Z
-DTSTART:20271221T090000
+DTSTAMP:20260923T195048Z
+DTSTART:20271222T024346Z
 SUMMARY:Winter Solstice
-DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.
+DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.\n\nExact moment: 6:43 PM PST
 URL:https://en.wikipedia.org/wiki/Winter_solstice
+CATEGORIES:Astronomy,Solar Events
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winter Solstice
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dst-end-2026@dst.local
+DTSTAMP:20260923T195048Z
+DTSTART:20261101T020000
+SUMMARY:DST Ends
+DESCRIPTION:Clocks move back one hour.
+CATEGORIES:Daylight Saving Time,Time Change
+END:VEVENT
+BEGIN:VEVENT
+UID:dst-start-2027@dst.local
+DTSTAMP:20260923T195048Z
+DTSTART:20270314T020000
+SUMMARY:DST Starts
+DESCRIPTION:Clocks move forward one hour.
+CATEGORIES:Daylight Saving Time,Time Change
+END:VEVENT
+BEGIN:VEVENT
+UID:dst-end-2027@dst.local
+DTSTAMP:20260923T195048Z
+DTSTART:20271107T020000
+SUMMARY:DST Ends
+DESCRIPTION:Clocks move back one hour.
+CATEGORIES:Daylight Saving Time,Time Change
+END:VEVENT
+BEGIN:VEVENT
+UID:dst-start-2028@dst.local
+DTSTAMP:20260923T195048Z
+DTSTART:20280312T020000
+SUMMARY:DST Starts
+DESCRIPTION:Clocks move forward one hour.
+CATEGORIES:Daylight Saving Time,Time Change
 END:VEVENT
 END:VCALENDAR
