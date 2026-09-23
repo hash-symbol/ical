@@ -6,44 +6,56 @@ METHOD:PUBLISH
 X-WR-CALNAME:Solstice Events
 BEGIN:VEVENT
 UID:september-2026@solar-events.local
-DTSTAMP:20260923T011603Z
+DTSTAMP:20260923T012207Z
 DTSTART:20260922T090000
 DTEND:20260922T093000
 SUMMARY:September Equinox
+DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.
+URL:https://en.wikipedia.org/wiki/September_equinox
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-2026@solar-events.local
-DTSTAMP:20260923T011603Z
+DTSTAMP:20260923T012207Z
 DTSTART:20261221T090000
 DTEND:20261221T093000
 SUMMARY:Winter Solstice
+DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.
+URL:https://en.wikipedia.org/wiki/Winter_solstice
 END:VEVENT
 BEGIN:VEVENT
 UID:march-2027@solar-events.local
-DTSTAMP:20260923T011603Z
+DTSTAMP:20260923T012207Z
 DTSTART:20270320T090000
 DTEND:20270320T093000
 SUMMARY:March Equinox
+DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.
+URL:https://en.wikipedia.org/wiki/March_equinox
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-2027@solar-events.local
-DTSTAMP:20260923T011603Z
+DTSTAMP:20260923T012207Z
 DTSTART:20270621T090000
 DTEND:20270621T093000
 SUMMARY:Summer Solstice
+DESCRIPTION:The day with the most daylight hours of the year in the Northern Hemisphere.
+URL:https://en.wikipedia.org/wiki/Summer_solstice
 END:VEVENT
 BEGIN:VEVENT
 UID:september-2027@solar-events.local
-DTSTAMP:20260923T011603Z
+DTSTAMP:20260923T012207Z
 DTSTART:20270922T090000
 DTEND:20270922T093000
 SUMMARY:September Equinox
+DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.
+URL:https://en.wikipedia.org/wiki/September_equinox
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-2027@solar-events.local
-DTSTAMP:20260923T011603Z
+DTSTAMP:20260923T012207Z
 DTSTART:20271221T090000
 DTEND:20271221T093000
 SUMMARY:Winter Solstice
+DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.
+URL:https://en.wikipedia.org/wiki/Winter_solstice
 END:VEVENT
 END:VCALENDAR
