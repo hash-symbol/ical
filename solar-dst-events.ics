@@ -1,40 +1,40 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Daylight Savings + Solar Events Plugins//Merged ICS//EN
+PRODID:-//Daylight Savings + Solar Events//ICS//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Solar & DST Events
 BEGIN:VEVENT
 UID:dst-end-2026@dst.local
-DTSTAMP:20260923T033737Z
+DTSTAMP:20260923T040506Z
 DTSTART:20261101T020000
 SUMMARY:DST Ends
 DESCRIPTION:Clocks move back one hour.
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2027@dst.local
-DTSTAMP:20260923T033737Z
+DTSTAMP:20260923T040506Z
 DTSTART:20270314T020000
 SUMMARY:DST Starts
 DESCRIPTION:Clocks move forward one hour.
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-end-2027@dst.local
-DTSTAMP:20260923T033737Z
+DTSTAMP:20260923T040506Z
 DTSTART:20271107T020000
 SUMMARY:DST Ends
 DESCRIPTION:Clocks move back one hour.
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2028@dst.local
-DTSTAMP:20260923T033737Z
+DTSTAMP:20260923T040506Z
 DTSTART:20280312T020000
 SUMMARY:DST Starts
 DESCRIPTION:Clocks move forward one hour.
 END:VEVENT
 BEGIN:VEVENT
 UID:september-2026@solar-events.local
-DTSTAMP:20260923T033737Z
+DTSTAMP:20260923T040506Z
 DTSTART:20260922T090000
 SUMMARY:September Equinox
 DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.
@@ -42,7 +42,7 @@ URL:https://en.wikipedia.org/wiki/September_equinox
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-2026@solar-events.local
-DTSTAMP:20260923T033737Z
+DTSTAMP:20260923T040506Z
 DTSTART:20261221T090000
 SUMMARY:Winter Solstice
 DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.
@@ -50,7 +50,7 @@ URL:https://en.wikipedia.org/wiki/Winter_solstice
 END:VEVENT
 BEGIN:VEVENT
 UID:march-2027@solar-events.local
-DTSTAMP:20260923T033737Z
+DTSTAMP:20260923T040506Z
 DTSTART:20270320T090000
 SUMMARY:March Equinox
 DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.
@@ -58,7 +58,7 @@ URL:https://en.wikipedia.org/wiki/March_equinox
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-2027@solar-events.local
-DTSTAMP:20260923T033737Z
+DTSTAMP:20260923T040506Z
 DTSTART:20270621T090000
 SUMMARY:Summer Solstice
 DESCRIPTION:The day with the most daylight hours of the year in the Northern Hemisphere.
@@ -66,7 +66,7 @@ URL:https://en.wikipedia.org/wiki/Summer_solstice
 END:VEVENT
 BEGIN:VEVENT
 UID:september-2027@solar-events.local
-DTSTAMP:20260923T033737Z
+DTSTAMP:20260923T040506Z
 DTSTART:20270922T090000
 SUMMARY:September Equinox
 DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.
@@ -74,7 +74,7 @@ URL:https://en.wikipedia.org/wiki/September_equinox
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-2027@solar-events.local
-DTSTAMP:20260923T033737Z
+DTSTAMP:20260923T040506Z
 DTSTART:20271221T090000
 SUMMARY:Winter Solstice
 DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.
