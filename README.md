@@ -1,6 +1,6 @@
 # Solar & DST Events Calendar
 
-An `.ics` file combining solstice/equinox and Daylight Saving Time events.
+An `.ics` file combining solstice/equinox and Daylight Saving Time events for timezone America/Los_Angeles.
 
 ## Subscribe
 
@@ -39,12 +39,6 @@ clock time it occurs, an estimated length of daylight that day, and a link
 to the relevant Wikipedia article. Each DST event's description includes
 the actual before/after timezone abbreviation and UTC offset (e.g. "PST
 (UTC-08:00) becomes PDT (UTC-07:00)").
-
-Solstice/equinox timestamps are calculated directly (Meeus algorithm, not
-looked up) and are accurate to the second. DST transitions come from PHP's
-own `DateTimeZone::getTransitions()`, so they reflect whatever the server's
-tzdata says - if a country changes its DST rules, this updates automatically
-next time tzdata is updated on the host, no code change needed.
 
 ## License
 
