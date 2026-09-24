@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Solar Events + DST ICS - Los Angeles//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Solar & DST Events — Los Angeles
+BEGIN:VEVENT
+UID:winter-2026-los-angeles@solar-events.local
+DTSTAMP:20260924T023517Z
+DTSTART:20261221T205132Z
+SUMMARY:❄️ Winter Solstice
+DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 9h 44m (at 34.05°N)\nExact moment: 12:51 PM PST
+URL:https://en.wikipedia.org/wiki/Winter_solstice
+CATEGORIES:Astronomy,Solar Events
+COLOR:steelblue
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winter Solstice
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:march-2027-los-angeles@solar-events.local
+DTSTAMP:20260924T023517Z
+DTSTART:20270320T202645Z
+SUMMARY:🌷 March Equinox
+DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.\n\nEstimated daylight: 12h 00m (at 34.05°N)\nExact moment: 1:26 PM PDT
+URL:https://en.wikipedia.org/wiki/March_equinox
+CATEGORIES:Astronomy,Solar Events
+COLOR:lightpink
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:March Equinox
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-2027-los-angeles@solar-events.local
+DTSTAMP:20260924T023517Z
+DTSTART:20270621T141243Z
+SUMMARY:☀️ Summer Solstice
+DESCRIPTION:The day with the most daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 14h 16m (at 34.05°N)\nExact moment: 7:12 AM PDT
+URL:https://en.wikipedia.org/wiki/Summer_solstice
+CATEGORIES:Astronomy,Solar Events
+COLOR:gold
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Summer Solstice
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:september-2027-los-angeles@solar-events.local
+DTSTAMP:20260924T023517Z
+DTSTART:20270923T060311Z
+SUMMARY:🍂 September Equinox
+DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.\n\nEstimated daylight: 12h 00m (at 34.05°N)\nExact moment: 11:03 PM PDT
+URL:https://en.wikipedia.org/wiki/September_equinox
+CATEGORIES:Astronomy,Solar Events
+COLOR:chocolate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:September Equinox
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-2027-los-angeles@solar-events.local
+DTSTAMP:20260924T023517Z
+DTSTART:20271222T024346Z
+SUMMARY:❄️ Winter Solstice
+DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 9h 44m (at 34.05°N)\nExact moment: 6:43 PM PST
+URL:https://en.wikipedia.org/wiki/Winter_solstice
+CATEGORIES:Astronomy,Solar Events
+COLOR:steelblue
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winter Solstice
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dst-end-2026-los-angeles@dst.local
+DTSTAMP:20260924T023517Z
+DTSTART:20261101T020000
+SUMMARY:⏪️ DST Ends
+DESCRIPTION:Clocks move back one hour.\n\nPDT (UTC-07:00) becomes PST (UTC-08:00)\nExact moment: 2:00 AM PDT
+CATEGORIES:Daylight Saving Time,Time Change
+COLOR:mediumseagreen
+END:VEVENT
+BEGIN:VEVENT
+UID:dst-start-2027-los-angeles@dst.local
+DTSTAMP:20260924T023517Z
+DTSTART:20270314T020000
+SUMMARY:⏩️ DST Starts
+DESCRIPTION:Clocks move forward one hour.\n\nPST (UTC-08:00) becomes PDT (UTC-07:00)\nExact moment: 2:00 AM PST
+CATEGORIES:Daylight Saving Time,Time Change
+COLOR:orangered
+END:VEVENT
+BEGIN:VEVENT
+UID:dst-end-2027-los-angeles@dst.local
+DTSTAMP:20260924T023517Z
+DTSTART:20271107T020000
+SUMMARY:⏪️ DST Ends
+DESCRIPTION:Clocks move back one hour.\n\nPDT (UTC-07:00) becomes PST (UTC-08:00)\nExact moment: 2:00 AM PDT
+CATEGORIES:Daylight Saving Time,Time Change
+COLOR:mediumseagreen
+END:VEVENT
+BEGIN:VEVENT
+UID:dst-start-2028-los-angeles@dst.local
+DTSTAMP:20260924T023517Z
+DTSTART:20280312T020000
+SUMMARY:⏩️ DST Starts
+DESCRIPTION:Clocks move forward one hour.\n\nPST (UTC-08:00) becomes PDT (UTC-07:00)\nExact moment: 2:00 AM PST
+CATEGORIES:Daylight Saving Time,Time Change
+COLOR:orangered
+END:VEVENT
+BEGIN:VEVENT
+UID:dst-end-2028-los-angeles@dst.local
+DTSTAMP:20260924T023517Z
+DTSTART:20281105T020000
+SUMMARY:⏪️ DST Ends
+DESCRIPTION:Clocks move back one hour.\n\nPDT (UTC-07:00) becomes PST (UTC-08:00)\nExact moment: 2:00 AM PDT
+CATEGORIES:Daylight Saving Time,Time Change
+COLOR:mediumseagreen
+END:VEVENT
+BEGIN:VEVENT
+UID:dst-start-2029-los-angeles@dst.local
+DTSTAMP:20260924T023517Z
+DTSTART:20290311T020000
+SUMMARY:⏩️ DST Starts
+DESCRIPTION:Clocks move forward one hour.\n\nPST (UTC-08:00) becomes PDT (UTC-07:00)\nExact moment: 2:00 AM PST
+CATEGORIES:Daylight Saving Time,Time Change
+COLOR:orangered
+END:VEVENT
+BEGIN:VEVENT
+UID:dst-end-2029-los-angeles@dst.local
+DTSTAMP:20260924T023517Z
+DTSTART:20291104T020000
+SUMMARY:⏪️ DST Ends
+DESCRIPTION:Clocks move back one hour.\n\nPDT (UTC-07:00) becomes PST (UTC-08:00)\nExact moment: 2:00 AM PDT
+CATEGORIES:Daylight Saving Time,Time Change
+COLOR:mediumseagreen
+END:VEVENT
+BEGIN:VEVENT
+UID:dst-start-2030-los-angeles@dst.local
+DTSTAMP:20260924T023517Z
+DTSTART:20300310T020000
+SUMMARY:⏩️ DST Starts
+DESCRIPTION:Clocks move forward one hour.\n\nPST (UTC-08:00) becomes PDT (UTC-07:00)\nExact moment: 2:00 AM PST
+CATEGORIES:Daylight Saving Time,Time Change
+COLOR:orangered
+END:VEVENT
+END:VCALENDAR
