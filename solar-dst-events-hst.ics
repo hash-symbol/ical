@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Solar & DST Events — Honolulu
 BEGIN:VEVENT
 UID:winter-2026-honolulu@solar-events.local
-DTSTAMP:20260924T030246Z
+DTSTAMP:20260924T031146Z
 DTSTART:20261221T205132Z
 SUMMARY:❄️ Winter Solstice
 DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 10h 42m (at 21.31°N)\nExact moment: 10:51 AM HST
@@ -21,7 +21,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-2027-honolulu@solar-events.local
-DTSTAMP:20260924T030246Z
+DTSTAMP:20260924T031146Z
 DTSTART:20270320T202645Z
 SUMMARY:🌷 March Equinox
 DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.\n\nEstimated daylight: 12h 00m (at 21.31°N)\nExact moment: 10:26 AM HST
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-2027-honolulu@solar-events.local
-DTSTAMP:20260924T030246Z
+DTSTAMP:20260924T031146Z
 DTSTART:20270621T141243Z
 SUMMARY:☀️ Summer Solstice
 DESCRIPTION:The day with the most daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 13h 18m (at 21.31°N)\nExact moment: 4:12 AM HST
@@ -51,7 +51,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:september-2027-honolulu@solar-events.local
-DTSTAMP:20260924T030246Z
+DTSTAMP:20260924T031146Z
 DTSTART:20270923T060311Z
 SUMMARY:🍂 September Equinox
 DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.\n\nEstimated daylight: 12h 00m (at 21.31°N)\nExact moment: 8:03 PM HST
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-2027-honolulu@solar-events.local
-DTSTAMP:20260924T030246Z
+DTSTAMP:20260924T031146Z
 DTSTART:20271222T024346Z
 SUMMARY:❄️ Winter Solstice
 DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 10h 42m (at 21.31°N)\nExact moment: 4:43 PM HST
