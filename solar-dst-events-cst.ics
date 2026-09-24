@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Solar & DST Events — Chicago
 BEGIN:VEVENT
 UID:winter-2026-chicago@solar-events.local
-DTSTAMP:20260924T025927Z
+DTSTAMP:20260924T030246Z
 DTSTART:20261221T205132Z
 SUMMARY:❄️ Winter Solstice
 DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 8h 57m (at 41.88°N)\nExact moment: 2:51 PM CST
@@ -21,7 +21,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-2027-chicago@solar-events.local
-DTSTAMP:20260924T025927Z
+DTSTAMP:20260924T030246Z
 DTSTART:20270320T202645Z
 SUMMARY:🌷 March Equinox
 DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.\n\nEstimated daylight: 12h 00m (at 41.88°N)\nExact moment: 3:26 PM CDT
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-2027-chicago@solar-events.local
-DTSTAMP:20260924T025927Z
+DTSTAMP:20260924T030246Z
 DTSTART:20270621T141243Z
 SUMMARY:☀️ Summer Solstice
 DESCRIPTION:The day with the most daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 15h 03m (at 41.88°N)\nExact moment: 9:12 AM CDT
@@ -51,7 +51,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:september-2027-chicago@solar-events.local
-DTSTAMP:20260924T025927Z
+DTSTAMP:20260924T030246Z
 DTSTART:20270923T060311Z
 SUMMARY:🍂 September Equinox
 DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.\n\nEstimated daylight: 12h 00m (at 41.88°N)\nExact moment: 1:03 AM CDT
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-2027-chicago@solar-events.local
-DTSTAMP:20260924T025927Z
+DTSTAMP:20260924T030246Z
 DTSTART:20271222T024346Z
 SUMMARY:❄️ Winter Solstice
 DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 8h 57m (at 41.88°N)\nExact moment: 8:43 PM CST
@@ -81,7 +81,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-end-2026-chicago@dst.local
-DTSTAMP:20260924T025927Z
+DTSTAMP:20260924T030246Z
 DTSTART:20261101T020000
 SUMMARY:⏪️ DST Ends
 DESCRIPTION:Clocks move back one hour.\n\nCDT (UTC-05:00) becomes CST (UTC-06:00)\nExact moment: 2:00 AM CDT
@@ -90,7 +90,7 @@ COLOR:mediumseagreen
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2027-chicago@dst.local
-DTSTAMP:20260924T025927Z
+DTSTAMP:20260924T030246Z
 DTSTART:20270314T020000
 SUMMARY:⏩️ DST Starts
 DESCRIPTION:Clocks move forward one hour.\n\nCST (UTC-06:00) becomes CDT (UTC-05:00)\nExact moment: 2:00 AM CST
@@ -99,7 +99,7 @@ COLOR:orangered
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-end-2027-chicago@dst.local
-DTSTAMP:20260924T025927Z
+DTSTAMP:20260924T030246Z
 DTSTART:20271107T020000
 SUMMARY:⏪️ DST Ends
 DESCRIPTION:Clocks move back one hour.\n\nCDT (UTC-05:00) becomes CST (UTC-06:00)\nExact moment: 2:00 AM CDT
@@ -108,7 +108,7 @@ COLOR:mediumseagreen
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2028-chicago@dst.local
-DTSTAMP:20260924T025927Z
+DTSTAMP:20260924T030246Z
 DTSTART:20280312T020000
 SUMMARY:⏩️ DST Starts
 DESCRIPTION:Clocks move forward one hour.\n\nCST (UTC-06:00) becomes CDT (UTC-05:00)\nExact moment: 2:00 AM CST
@@ -117,7 +117,7 @@ COLOR:orangered
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-end-2028-chicago@dst.local
-DTSTAMP:20260924T025927Z
+DTSTAMP:20260924T030246Z
 DTSTART:20281105T020000
 SUMMARY:⏪️ DST Ends
 DESCRIPTION:Clocks move back one hour.\n\nCDT (UTC-05:00) becomes CST (UTC-06:00)\nExact moment: 2:00 AM CDT
@@ -126,7 +126,7 @@ COLOR:mediumseagreen
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2029-chicago@dst.local
-DTSTAMP:20260924T025927Z
+DTSTAMP:20260924T030246Z
 DTSTART:20290311T020000
 SUMMARY:⏩️ DST Starts
 DESCRIPTION:Clocks move forward one hour.\n\nCST (UTC-06:00) becomes CDT (UTC-05:00)\nExact moment: 2:00 AM CST
@@ -135,7 +135,7 @@ COLOR:orangered
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-end-2029-chicago@dst.local
-DTSTAMP:20260924T025927Z
+DTSTAMP:20260924T030246Z
 DTSTART:20291104T020000
 SUMMARY:⏪️ DST Ends
 DESCRIPTION:Clocks move back one hour.\n\nCDT (UTC-05:00) becomes CST (UTC-06:00)\nExact moment: 2:00 AM CDT
@@ -144,7 +144,7 @@ COLOR:mediumseagreen
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2030-chicago@dst.local
-DTSTAMP:20260924T025927Z
+DTSTAMP:20260924T030246Z
 DTSTART:20300310T020000
 SUMMARY:⏩️ DST Starts
 DESCRIPTION:Clocks move forward one hour.\n\nCST (UTC-06:00) becomes CDT (UTC-05:00)\nExact moment: 2:00 AM CST
