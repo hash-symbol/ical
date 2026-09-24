@@ -38,7 +38,7 @@ Not sure of the exact URL for a zone? Run `php generate-ics.php --get-url
 | Los Angeles | `pst` | `America/Los_Angeles` |
 | Anchorage | `akst` | `America/Anchorage` |
 | Honolulu | `hst` | `Pacific/Honolulu` |
-| Phoenix | `mst` | `America/Phoenix` |
+| Phoenix | `mst-az` | `America/Phoenix` |
 
 Honolulu and Phoenix do not observe DST, so their respective files only ever contains solstice/
 equinox events but not DST events.
