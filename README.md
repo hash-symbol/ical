@@ -9,7 +9,7 @@ Each timezone gets its own file, named `solar-dst-events-{abbr}.ics` (e.g.
 app at the raw file for your zone:
 
 ```
-https://raw.githubusercontent.com/{username/repo}/main/solar-dst-events-{abbr}.ics
+https://raw.githubusercontent.com/hash-symbol/ical/main/solar-dst-events-{abbr}.ics
 ```
 
 Or, for apps that support live-updating webcal subscriptions rather than a
@@ -17,7 +17,7 @@ one-time import (recommended - the feed is regenerated monthly, a plain
 import won't pick up future changes):
 
 ```
-webcal://raw.githubusercontent.com/{username/repo}/main/solar-dst-events-{abbr}.ics
+webcal://raw.githubusercontent.com/hash-symbol/ical/main/solar-dst-events-{abbr}.ics
 ```
 
 - **Apple Calendar**: File > New Calendar Subscription, paste the `webcal://`
