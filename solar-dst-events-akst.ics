@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Solar & DST Events — Anchorage
 BEGIN:VEVENT
 UID:winter-2026-anchorage@solar-events.local
-DTSTAMP:20260924T051119Z
+DTSTAMP:20260924T051927Z
 DTSTART:20261221T205132Z
 SUMMARY:❄️ Winter Solstice
 DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 5h 03m (at 61.22°N)\nExact moment: 11:51 AM AKST
@@ -21,7 +21,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-2027-anchorage@solar-events.local
-DTSTAMP:20260924T051119Z
+DTSTAMP:20260924T051927Z
 DTSTART:20270320T202645Z
 SUMMARY:🌷 March Equinox
 DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.\n\nEstimated daylight: 12h 00m (at 61.22°N)\nExact moment: 12:26 PM AKDT
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-2027-anchorage@solar-events.local
-DTSTAMP:20260924T051119Z
+DTSTAMP:20260924T051927Z
 DTSTART:20270621T141243Z
 SUMMARY:☀️ Summer Solstice
 DESCRIPTION:The day with the most daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 18h 57m (at 61.22°N)\nExact moment: 6:12 AM AKDT
@@ -51,7 +51,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:september-2027-anchorage@solar-events.local
-DTSTAMP:20260924T051119Z
+DTSTAMP:20260924T051927Z
 DTSTART:20270923T060311Z
 SUMMARY:🍂 September Equinox
 DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.\n\nEstimated daylight: 12h 00m (at 61.22°N)\nExact moment: 10:03 PM AKDT
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-2027-anchorage@solar-events.local
-DTSTAMP:20260924T051119Z
+DTSTAMP:20260924T051927Z
 DTSTART:20271222T024346Z
 SUMMARY:❄️ Winter Solstice
 DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 5h 03m (at 61.22°N)\nExact moment: 5:43 PM AKST
@@ -81,7 +81,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-end-2026-anchorage@dst.local
-DTSTAMP:20260924T051119Z
+DTSTAMP:20260924T051927Z
 DTSTART:20261101T020000
 SUMMARY:⏪️ DST Ends
 DESCRIPTION:Clocks move back one hour.\n\nAKDT (UTC-08:00) becomes AKST (UTC-09:00)\nExact moment: 2:00 AM AKDT
@@ -90,7 +90,7 @@ COLOR:mediumseagreen
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2027-anchorage@dst.local
-DTSTAMP:20260924T051119Z
+DTSTAMP:20260924T051927Z
 DTSTART:20270314T020000
 SUMMARY:⏩️ DST Starts
 DESCRIPTION:Clocks move forward one hour.\n\nAKST (UTC-09:00) becomes AKDT (UTC-08:00)\nExact moment: 2:00 AM AKST
@@ -99,7 +99,7 @@ COLOR:orangered
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-end-2027-anchorage@dst.local
-DTSTAMP:20260924T051119Z
+DTSTAMP:20260924T051927Z
 DTSTART:20271107T020000
 SUMMARY:⏪️ DST Ends
 DESCRIPTION:Clocks move back one hour.\n\nAKDT (UTC-08:00) becomes AKST (UTC-09:00)\nExact moment: 2:00 AM AKDT
@@ -108,7 +108,7 @@ COLOR:mediumseagreen
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2028-anchorage@dst.local
-DTSTAMP:20260924T051119Z
+DTSTAMP:20260924T051927Z
 DTSTART:20280312T020000
 SUMMARY:⏩️ DST Starts
 DESCRIPTION:Clocks move forward one hour.\n\nAKST (UTC-09:00) becomes AKDT (UTC-08:00)\nExact moment: 2:00 AM AKST
@@ -117,7 +117,7 @@ COLOR:orangered
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-end-2028-anchorage@dst.local
-DTSTAMP:20260924T051119Z
+DTSTAMP:20260924T051927Z
 DTSTART:20281105T020000
 SUMMARY:⏪️ DST Ends
 DESCRIPTION:Clocks move back one hour.\n\nAKDT (UTC-08:00) becomes AKST (UTC-09:00)\nExact moment: 2:00 AM AKDT
@@ -126,7 +126,7 @@ COLOR:mediumseagreen
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2029-anchorage@dst.local
-DTSTAMP:20260924T051119Z
+DTSTAMP:20260924T051927Z
 DTSTART:20290311T020000
 SUMMARY:⏩️ DST Starts
 DESCRIPTION:Clocks move forward one hour.\n\nAKST (UTC-09:00) becomes AKDT (UTC-08:00)\nExact moment: 2:00 AM AKST
@@ -135,7 +135,7 @@ COLOR:orangered
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-end-2029-anchorage@dst.local
-DTSTAMP:20260924T051119Z
+DTSTAMP:20260924T051927Z
 DTSTART:20291104T020000
 SUMMARY:⏪️ DST Ends
 DESCRIPTION:Clocks move back one hour.\n\nAKDT (UTC-08:00) becomes AKST (UTC-09:00)\nExact moment: 2:00 AM AKDT
@@ -144,7 +144,7 @@ COLOR:mediumseagreen
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2030-anchorage@dst.local
-DTSTAMP:20260924T051119Z
+DTSTAMP:20260924T051927Z
 DTSTART:20300310T020000
 SUMMARY:⏩️ DST Starts
 DESCRIPTION:Clocks move forward one hour.\n\nAKST (UTC-09:00) becomes AKDT (UTC-08:00)\nExact moment: 2:00 AM AKST
