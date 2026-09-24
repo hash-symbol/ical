@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Solar & DST Events
 BEGIN:VEVENT
 UID:winter-2026@solar-events.local
-DTSTAMP:20260924T012855Z
+DTSTAMP:20260924T013028Z
 DTSTART:20261221T205132Z
 SUMMARY:❄️ Winter Solstice
 DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 9h 44m (at 34.05°N)\nExact moment: 12:51 PM PST
@@ -21,7 +21,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-2027@solar-events.local
-DTSTAMP:20260924T012855Z
+DTSTAMP:20260924T013028Z
 DTSTART:20270320T202645Z
 SUMMARY:🌸 March Equinox
 DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.\n\nEstimated daylight: 12h 00m (at 34.05°N)\nExact moment: 1:26 PM PDT
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-2027@solar-events.local
-DTSTAMP:20260924T012855Z
+DTSTAMP:20260924T013028Z
 DTSTART:20270621T141243Z
 SUMMARY:☀️ Summer Solstice
 DESCRIPTION:The day with the most daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 14h 16m (at 34.05°N)\nExact moment: 7:12 AM PDT
@@ -51,7 +51,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:september-2027@solar-events.local
-DTSTAMP:20260924T012855Z
+DTSTAMP:20260924T013028Z
 DTSTART:20270923T060311Z
 SUMMARY:🍁 September Equinox
 DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.\n\nEstimated daylight: 12h 00m (at 34.05°N)\nExact moment: 11:03 PM PDT
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-2027@solar-events.local
-DTSTAMP:20260924T012855Z
+DTSTAMP:20260924T013028Z
 DTSTART:20271222T024346Z
 SUMMARY:❄️ Winter Solstice
 DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 9h 44m (at 34.05°N)\nExact moment: 6:43 PM PST
@@ -81,7 +81,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-end-2026@dst.local
-DTSTAMP:20260924T012855Z
+DTSTAMP:20260924T013028Z
 DTSTART:20261101T020000
 SUMMARY:⏪️ DST Ends
 DESCRIPTION:Clocks move back one hour.\n\nPDT (UTC-07:00) becomes PST (UTC-08:00)\nExact moment: 2:00 AM PDT
@@ -90,7 +90,7 @@ COLOR:mediumseagreen
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2027@dst.local
-DTSTAMP:20260924T012855Z
+DTSTAMP:20260924T013028Z
 DTSTART:20270314T020000
 SUMMARY:⏩️ DST Starts
 DESCRIPTION:Clocks move forward one hour.\n\nPST (UTC-08:00) becomes PDT (UTC-07:00)\nExact moment: 2:00 AM PST
@@ -99,7 +99,7 @@ COLOR:orangered
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-end-2027@dst.local
-DTSTAMP:20260924T012855Z
+DTSTAMP:20260924T013028Z
 DTSTART:20271107T020000
 SUMMARY:⏪️ DST Ends
 DESCRIPTION:Clocks move back one hour.\n\nPDT (UTC-07:00) becomes PST (UTC-08:00)\nExact moment: 2:00 AM PDT
@@ -108,7 +108,7 @@ COLOR:mediumseagreen
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2028@dst.local
-DTSTAMP:20260924T012855Z
+DTSTAMP:20260924T013028Z
 DTSTART:20280312T020000
 SUMMARY:⏩️ DST Starts
 DESCRIPTION:Clocks move forward one hour.\n\nPST (UTC-08:00) becomes PDT (UTC-07:00)\nExact moment: 2:00 AM PST
