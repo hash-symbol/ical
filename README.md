@@ -10,7 +10,7 @@ Each timezone gets its own file, named `solar-dst-events-{abbr}.ics` (e.g.
 app at the raw file for your zone:
 
 ```
-https://raw.githubusercontent.com/hash-symbol/ical/main/solar-dst-events-{abbr}.ics
+https://raw.githubusercontent.com/{username/repo}/main/solar-dst-events-{abbr}.ics
 ```
 
 Or, for apps that support live-updating webcal subscriptions rather than a
@@ -18,7 +18,7 @@ one-time import (recommended - the feed is regenerated monthly, a plain
 import won't pick up future changes):
 
 ```
-webcal://raw.githubusercontent.com/hash-symbol/ical/main/solar-dst-events-{abbr}.ics
+webcal://raw.githubusercontent.com/{username/repo}/main/solar-dst-events-{abbr}.ics
 ```
 
 - **Apple Calendar**: File > New Calendar Subscription, paste the `webcal://`
@@ -38,6 +38,10 @@ Not sure of the exact URL for a zone? Run `php generate-ics.php --get-url
 | Denver | `mst` | `America/Denver` |
 | Los Angeles | `pst` | `America/Los_Angeles` |
 | Anchorage | `akst` | `America/Anchorage` |
+| Honolulu | `hst` | `Pacific/Honolulu` |
+
+Honolulu doesn't observe DST, so its file only ever contains solstice/
+equinox events - if it's ever missing, that's expected, not a broken run.
 
 ## CLI usage
 
