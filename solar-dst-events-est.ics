@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Solar & DST Events — New York
 BEGIN:VEVENT
 UID:winter-2026-new-york@solar-events.local
-DTSTAMP:20260924T050212Z
+DTSTAMP:20260924T050308Z
 DTSTART:20261221T205132Z
 SUMMARY:❄️ Winter Solstice
 DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 9h 05m (at 40.71°N)\nExact moment: 3:51 PM EST
@@ -21,7 +21,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-2027-new-york@solar-events.local
-DTSTAMP:20260924T050212Z
+DTSTAMP:20260924T050308Z
 DTSTART:20270320T202645Z
 SUMMARY:🌷 March Equinox
 DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.\n\nEstimated daylight: 12h 00m (at 40.71°N)\nExact moment: 4:26 PM EDT
@@ -36,7 +36,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-2027-new-york@solar-events.local
-DTSTAMP:20260924T050212Z
+DTSTAMP:20260924T050308Z
 DTSTART:20270621T141243Z
 SUMMARY:☀️ Summer Solstice
 DESCRIPTION:The day with the most daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 14h 55m (at 40.71°N)\nExact moment: 10:12 AM EDT
@@ -51,7 +51,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:september-2027-new-york@solar-events.local
-DTSTAMP:20260924T050212Z
+DTSTAMP:20260924T050308Z
 DTSTART:20270923T060311Z
 SUMMARY:🍂 September Equinox
 DESCRIPTION:One of two days each year when day and night are approximately equal in length worldwide.\n\nEstimated daylight: 12h 00m (at 40.71°N)\nExact moment: 2:03 AM EDT
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-2027-new-york@solar-events.local
-DTSTAMP:20260924T050212Z
+DTSTAMP:20260924T050308Z
 DTSTART:20271222T024346Z
 SUMMARY:❄️ Winter Solstice
 DESCRIPTION:The day with the fewest daylight hours of the year in the Northern Hemisphere.\n\nEstimated daylight: 9h 05m (at 40.71°N)\nExact moment: 9:43 PM EST
@@ -81,7 +81,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-end-2026-new-york@dst.local
-DTSTAMP:20260924T050212Z
+DTSTAMP:20260924T050308Z
 DTSTART:20261101T020000
 SUMMARY:⏪️ DST Ends
 DESCRIPTION:Clocks move back one hour.\n\nEDT (UTC-04:00) becomes EST (UTC-05:00)\nExact moment: 2:00 AM EDT
@@ -90,7 +90,7 @@ COLOR:mediumseagreen
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2027-new-york@dst.local
-DTSTAMP:20260924T050212Z
+DTSTAMP:20260924T050308Z
 DTSTART:20270314T020000
 SUMMARY:⏩️ DST Starts
 DESCRIPTION:Clocks move forward one hour.\n\nEST (UTC-05:00) becomes EDT (UTC-04:00)\nExact moment: 2:00 AM EST
@@ -99,7 +99,7 @@ COLOR:orangered
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-end-2027-new-york@dst.local
-DTSTAMP:20260924T050212Z
+DTSTAMP:20260924T050308Z
 DTSTART:20271107T020000
 SUMMARY:⏪️ DST Ends
 DESCRIPTION:Clocks move back one hour.\n\nEDT (UTC-04:00) becomes EST (UTC-05:00)\nExact moment: 2:00 AM EDT
@@ -108,7 +108,7 @@ COLOR:mediumseagreen
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2028-new-york@dst.local
-DTSTAMP:20260924T050212Z
+DTSTAMP:20260924T050308Z
 DTSTART:20280312T020000
 SUMMARY:⏩️ DST Starts
 DESCRIPTION:Clocks move forward one hour.\n\nEST (UTC-05:00) becomes EDT (UTC-04:00)\nExact moment: 2:00 AM EST
@@ -117,7 +117,7 @@ COLOR:orangered
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-end-2028-new-york@dst.local
-DTSTAMP:20260924T050212Z
+DTSTAMP:20260924T050308Z
 DTSTART:20281105T020000
 SUMMARY:⏪️ DST Ends
 DESCRIPTION:Clocks move back one hour.\n\nEDT (UTC-04:00) becomes EST (UTC-05:00)\nExact moment: 2:00 AM EDT
@@ -126,7 +126,7 @@ COLOR:mediumseagreen
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2029-new-york@dst.local
-DTSTAMP:20260924T050212Z
+DTSTAMP:20260924T050308Z
 DTSTART:20290311T020000
 SUMMARY:⏩️ DST Starts
 DESCRIPTION:Clocks move forward one hour.\n\nEST (UTC-05:00) becomes EDT (UTC-04:00)\nExact moment: 2:00 AM EST
@@ -135,7 +135,7 @@ COLOR:orangered
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-end-2029-new-york@dst.local
-DTSTAMP:20260924T050212Z
+DTSTAMP:20260924T050308Z
 DTSTART:20291104T020000
 SUMMARY:⏪️ DST Ends
 DESCRIPTION:Clocks move back one hour.\n\nEDT (UTC-04:00) becomes EST (UTC-05:00)\nExact moment: 2:00 AM EDT
@@ -144,7 +144,7 @@ COLOR:mediumseagreen
 END:VEVENT
 BEGIN:VEVENT
 UID:dst-start-2030-new-york@dst.local
-DTSTAMP:20260924T050212Z
+DTSTAMP:20260924T050308Z
 DTSTART:20300310T020000
 SUMMARY:⏩️ DST Starts
 DESCRIPTION:Clocks move forward one hour.\n\nEST (UTC-05:00) becomes EDT (UTC-04:00)\nExact moment: 2:00 AM EST
