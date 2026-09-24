@@ -1,7 +1,6 @@
 # Solar & DST Events Calendar
 
-`.ics` calendars combining solstice/equinox and Daylight Saving Time events,
-generated per US timezone.
+`.ics` calendars combining solstice/equinox and Daylight Saving Time events.
 
 ## Subscribe
 
