@@ -39,9 +39,6 @@ Not sure of the exact URL for a zone? Run `php generate-ics.php --get-url
 | Los Angeles | `pst` | `America/Los_Angeles` |
 | Anchorage | `akst` | `America/Anchorage` |
 
-Honolulu doesn't observe DST, so its file only ever contains solstice/
-equinox events - if it's ever missing, that's expected, not a broken run.
-
 ## CLI usage
 
 ```
