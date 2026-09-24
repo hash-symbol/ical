@@ -1,8 +1,8 @@
 # Solar & DST Events Calendar
 
-Calendars that put the year's big astronomical moments and clock changes on
-your schedule: the solstices, the equinoxes, and the start and end of Daylight
-Saving Time. Subscribe once and your calendar keeps itself up to date.
+The year's big astronomical moments and clock changes in your calendar:
+the solstices, the equinoxes, and the start and end of Daylight Saving Time.
+Subscribe once and your calendar keeps itself up to date.
 
 There's one calendar per time zone. The moment of a solstice or equinox is the
 same everywhere on Earth, but each calendar shows it in your local time and
@@ -35,24 +35,10 @@ webcal://raw.githubusercontent.com/hash-symbol/ical/main/<your-zone-file>
 - **Outlook:** Add calendar > Subscribe from web, paste the `https://`
   address.
 
-Pick the calendar for the zone you actually live in. The DST dates come from
+Pick the calendar for the zone you live closest to. The DST dates come from
 that zone's rules, and the events are set to 2:00 AM by whatever clock your
 calendar app is using, so another zone's calendar can show clock changes that
 don't apply to you.
-
-## Zones
-
-| Calendar | Time zone | DST events |
-|---|---|---|
-| Solar & DST Events — New York | `America/New_York` | Yes |
-| Solar & DST Events — Chicago | `America/Chicago` | Yes |
-| Solar & DST Events — Denver | `America/Denver` | Yes |
-| Solar & DST Events — Los Angeles | `America/Los_Angeles` | Yes |
-| Solar & DST Events — Phoenix | `America/Phoenix` | No |
-
-Arizona stays on standard time all year, so the Phoenix calendar only has
-solstices and equinoxes. Nothing is missing, there just aren't any clock
-changes to mark.
 
 ## What's on the calendar
 
@@ -73,9 +59,7 @@ becomes PDT (UTC-07:00)".
 
 ## How fresh it is
 
-The calendars are rebuilt every month and look a few years ahead, so events
-are already on your calendar long before they happen. If a rebuild turns up
-nothing new for a zone, that zone's file simply stays as it was.
+The calendars are refreshed every month and look a few years ahead.
 
 ## Good to know
 
@@ -84,9 +68,9 @@ nothing new for a zone, that zone's file simply stays as it was.
   from the standard time zone database. The daylight figure is an estimate, so
   treat it as approximate.
 - **Descriptions are written for the Northern Hemisphere.** "Summer solstice"
-  means the June one, with the longest day of the year.
-- **Colors are a bonus.** Each event carries a color, but not every calendar
-  app honors it. If yours doesn't, everything else still works.
+  means the June, with the longest day of the year.
+- **Colors are a bonus.** Each event carries a color (not every calendar
+  app honors it. If yours doesn't, everything else still works).
 - **Don't want the pings?** Solstice and equinox events have an alarm at the
   moment they happen. If you'd rather not get notified, turn off notifications
   for this calendar in your app.
