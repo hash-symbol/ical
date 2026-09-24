@@ -1,6 +1,8 @@
 # Solar & DST Events Calendar
 
-`.ics` calendars combining solstice/equinox and Daylight Saving Time events.
+`.ics` calendars combining solstice/equinox and Daylight Saving Time events. Solar
+uses latitude for the city of the specified timezone while Daylight Saving uses the
+specificied timezone.
 
 ## Subscribe
 
