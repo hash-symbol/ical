@@ -151,4 +151,13 @@ DESCRIPTION:Clocks move forward one hour.\n\nPST (UTC-08:00) becomes PDT (UTC-07
 CATEGORIES:Daylight Saving Time,Time Change
 COLOR:orangered
 END:VEVENT
+BEGIN:VEVENT
+UID:dst-end-2030-los-angeles@dst.local
+DTSTAMP:20301103T090000Z
+DTSTART:20301103T020000
+SUMMARY:⏪️ DST Ends
+DESCRIPTION:Clocks move back one hour.\n\nPDT (UTC-07:00) becomes PST (UTC-08:00)\nExact moment: 2:00 AM PDT
+CATEGORIES:Daylight Saving Time,Time Change
+COLOR:mediumseagreen
+END:VEVENT
 END:VCALENDAR
