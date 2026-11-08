@@ -151,4 +151,13 @@ DESCRIPTION:Clocks move forward one hour.\n\nCST (UTC-06:00) becomes CDT (UTC-05
 CATEGORIES:Daylight Saving Time,Time Change
 COLOR:orangered
 END:VEVENT
+BEGIN:VEVENT
+UID:dst-end-2030-chicago@dst.local
+DTSTAMP:20301103T070000Z
+DTSTART:20301103T020000
+SUMMARY:⏪️ DST Ends
+DESCRIPTION:Clocks move back one hour.\n\nCDT (UTC-05:00) becomes CST (UTC-06:00)\nExact moment: 2:00 AM CDT
+CATEGORIES:Daylight Saving Time,Time Change
+COLOR:mediumseagreen
+END:VEVENT
 END:VCALENDAR
