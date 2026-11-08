@@ -151,4 +151,13 @@ DESCRIPTION:Clocks move forward one hour.\n\nMST (UTC-07:00) becomes MDT (UTC-06
 CATEGORIES:Daylight Saving Time,Time Change
 COLOR:orangered
 END:VEVENT
+BEGIN:VEVENT
+UID:dst-end-2030-denver@dst.local
+DTSTAMP:20301103T080000Z
+DTSTART:20301103T020000
+SUMMARY:⏪️ DST Ends
+DESCRIPTION:Clocks move back one hour.\n\nMDT (UTC-06:00) becomes MST (UTC-07:00)\nExact moment: 2:00 AM MDT
+CATEGORIES:Daylight Saving Time,Time Change
+COLOR:mediumseagreen
+END:VEVENT
 END:VCALENDAR
