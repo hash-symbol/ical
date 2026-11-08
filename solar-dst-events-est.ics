@@ -151,4 +151,13 @@ DESCRIPTION:Clocks move forward one hour.\n\nEST (UTC-05:00) becomes EDT (UTC-04
 CATEGORIES:Daylight Saving Time,Time Change
 COLOR:orangered
 END:VEVENT
+BEGIN:VEVENT
+UID:dst-end-2030-new-york@dst.local
+DTSTAMP:20301103T060000Z
+DTSTART:20301103T020000
+SUMMARY:⏪️ DST Ends
+DESCRIPTION:Clocks move back one hour.\n\nEDT (UTC-04:00) becomes EST (UTC-05:00)\nExact moment: 2:00 AM EDT
+CATEGORIES:Daylight Saving Time,Time Change
+COLOR:mediumseagreen
+END:VEVENT
 END:VCALENDAR
